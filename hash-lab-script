@@ -1,0 +1,16 @@
+'''
+File name: hash-lab-script.ps1
+Created: 05/04/2021
+Author: Janessa Reed
+'''
+
+### Calcuate Hash using MD5
+Get-FileHash .\new_hash.txt -Algorithm MD5
+
+### Calculate Hash using SHA1
+Get-FileHash .\new_hash.txt -Algorithm SHA1
+
+### Calculate Hash using SHA256
+Get-FileHash .\new_hash.txt -Algorithm SHA256
+
+
