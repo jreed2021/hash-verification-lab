@@ -2,7 +2,7 @@
 #Cybersecurity Labs
 ## File Integrity & Hash Verification Lab
 
-**Tools Used**: Powershell, Get-FileHash, MD5, SHA1, SHA256
+**Tools Used**: Windows 11, Powershell, Get-FileHash, MD5, SHA1, SHA256
 
 ### Summary 
 This lab deminstrates how to compute and verify file hashes using PowerShell. The objective was to understand the importance of crytographic hash functions in maintaining file integrity and preventing unauthorized modification. 
