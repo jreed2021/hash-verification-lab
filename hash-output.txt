@@ -4,12 +4,13 @@ Author: Janessa Reed
 Created: 05/04/2025
 """
 
-### Results
-"""
+# Results
+'''
   MD5: 1729239737A73E1CDDFD727DAE3647DD
   SHA1: 50948520B779A52F76592841B0F3B10BBCDFB1E3
   SHA256: 99B6462A04469E1D851841103185212D81347DBDF5436E728255128A254428B1
-"""
-### Outcome
-"""
+'''
+# Outcome
+'''
 Learned the importance of strong hash algorithms to detect file tampering and ensure data integrity. 
+'''
