@@ -1,5 +1,5 @@
 # hash-verification-lab
-#Cybersecurity Labs
+### Cybersecurity Labs
 ## File Integrity & Hash Verification Lab
 
 **Tools Used**: Windows 11, Powershell, Get-FileHash, MD5, SHA1, SHA256
